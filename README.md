@@ -1,24 +1,28 @@
 # Roman Mik
 
-**Senior Full-Stack Engineer** · TypeScript, React, Next.js, Node.js, C#, PostgreSQL · Belgrade, Serbia (remote, EST overlap)
+**Senior Full-Stack Engineer** · React, TypeScript, Next.js, Node.js, C#, PostgreSQL · Belgrade, Serbia (remote, CET)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roman--mik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-mik-0a2682244/)
 [![Email](https://img.shields.io/badge/Email-it.mikroman%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:it.mikroman@gmail.com)
 [![Kapa](https://img.shields.io/badge/Live%20demo-Kapa-000000?logo=vercel&logoColor=white)](https://expenses-tracker-kapa4.vercel.app)
 
-6+ years building and scaling SaaS platforms end to end — backend services and PostgreSQL data
-models through to production React/Next.js front ends.
+Seven years of production React and TypeScript, most of it at **Lineate**, a development
+consultancy — shipping other companies' products end to end, backend through to production UI.
 
-- **Senior Software Engineer / Team Lead, ForwardFinancing** (2024–present) — leading a 3-engineer
-  migration of a legacy underwriting app to React/Next.js; introduced TanStack Query, cutting
-  per-page server requests by 50%.
+- **Senior Full-Stack Engineer, Lineate** (2026–present) — full-stack ownership of an ad-tech
+  platform; shipped the campaign-pacing feature end to end, UI through PostgreSQL schema.
+- **Senior Frontend Engineer, Lineate** (2024–2026) — led 3 engineers migrating a legacy underwriting
+  app to React/Next.js; introduced TanStack Query, cutting per-page server requests by 50%.
 - **Software Engineer, Yandex** (2023–2024) — built a high-performance video-ads JS SDK embedded
   across a large ecosystem of third-party sites.
 - **Software Engineer, Lineate** (2019–2023) — led frontend for a data-intensive AdTech publisher
   dashboard; migrated it to a React/TypeScript micro-frontend architecture, cutting production
   bugs by 30%.
 
-[Anthropic Claude certification](https://www.credly.com/badges/4402cd5a-e0e5-4c0c-9c29-f9e589ecb88d)
+[Anthropic Claude certification](https://www.credly.com/badges/4402cd5a-e0e5-4c0c-9c29-f9e589ecb88d) · **Education** — Omsk Aviation College, four-year engineering programme (ISCED level 5)
+
+**Client work:** [my.forwardfinancing.com/apply](https://my.forwardfinancing.com/apply) ·
+[gladeo.org](https://gladeo.org)
 
 ## Featured project — [Kapa](https://github.com/roman-mik/kapa)
 
