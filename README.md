@@ -21,9 +21,6 @@ consultancy — shipping other companies' products end to end, backend through t
 
 [Anthropic Claude certification](https://www.credly.com/badges/4402cd5a-e0e5-4c0c-9c29-f9e589ecb88d) · **Education** — Omsk Aviation College, four-year engineering programme (ISCED level 5)
 
-**Client work:** [my.forwardfinancing.com/apply](https://my.forwardfinancing.com/apply) ·
-[gladeo.org](https://gladeo.org)
-
 ## Featured project — [Kapa](https://github.com/roman-mik/kapa)
 
 A monthly spending-cap tracker: one cap, every expense logged in two taps, always know what's
