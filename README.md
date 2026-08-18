@@ -1,6 +1,6 @@
 # Roman Mik
 
-**Senior Full-Stack Engineer** · TypeScript, Next.js, Node.js, PostgreSQL · Belgrade, Serbia (remote, EST overlap)
+**Senior Full-Stack Engineer** · TypeScript, React, Next.js, Node.js, C#, PostgreSQL · Belgrade, Serbia (remote, EST overlap)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-roman--mik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-mik-0a2682244/)
 [![Email](https://img.shields.io/badge/Email-it.mikroman%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:it.mikroman@gmail.com)
