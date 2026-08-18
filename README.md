@@ -18,8 +18,7 @@ models through to production React/Next.js front ends.
   dashboard; migrated it to a React/TypeScript micro-frontend architecture, cutting production
   bugs by 30%.
 
-**AWS Certified Solutions Architect – Associate** · Anthropic Claude certifications
-([details](https://www.linkedin.com/in/roman-mik-0a2682244/details/certifications/))
+[Anthropic Claude certification](https://www.credly.com/badges/4402cd5a-e0e5-4c0c-9c29-f9e589ecb88d)
 
 ## Featured project — [Kapa](https://github.com/roman-mik/kapa)
 
